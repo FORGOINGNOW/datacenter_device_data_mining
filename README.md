@@ -1,4 +1,4 @@
-# ML Learning Projects
+#**datacenter devices data_mining**
 
 This repository contains compact, runnable machine-learning projects built around synthetic data generation, neural-network modeling, training, evaluation, anomaly detection, and visual reporting.
 
